@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Noghniy gileg</title>
+	<link rel="stylesheet" href="//depts.washington.edu/degxinag/css/dx.css" />
+	<link rel="shortcut icon" href="//depts.washington.edu/degxinag/imgs/raven-icon.png" />
+	<script src="//depts.washington.edu/degxinag/js/dx.js"></script>
+	<script src="//depts.washington.edu/degxinag/js/popcorn/popcorn-complete.js"></script>
+</head>
+<body>
+<div id="main-container">
+<h1>NOGHNIY GILEG<br/>(Rabbit song)</h1>
+<h2>Raymond Dutchman</h2>
+<div id="controls-holder">
+<div id="audio-holder"></div>
+</div>
+<div id="window"></div>
+<div id="text">
+<ol><li><p class='igt' id='i0'><a href="//depts.washington.edu/dxmedia/Gileg/gil-igg_teqa_togg_noghniy_k'idz.mp3" class='audio'>hidden</a><span class='words' id='i0w'><span class="word" id="i0w0">Giɬigg,</span><span class="word" id="i0w1">teqa,</span><span class="word" id="i0w2">togg</span><span class="word" id="i0w3">noghniy</span><span class="word" id="i0w4">k’idz</span></span><span class='glosses' id='i0g'><span class="gloss" id="i0g0"></span><span class="gloss" id="i0g1"></span><span class="gloss" id="i0g2"></span><span class="gloss" id="i0g3"></span><span class="gloss" id="i0g4"></span></span><br /><span class='trans' id='i0ft'>One, two three little rabbits</span></p></li>
+<li><p class='igt' id='i1'><a href="//depts.washington.edu/dxmedia/Gileg/il-yoth_hingo_xol-tlil-.mp3" class='audio'>hidden</a><span class='words' id='i1w'><span class="word" id="i1w0">Iɬyoth</span><span class="word" id="i1w1">hingo</span><span class="word" id="i1w2">xoɬtliɬ.</span></span><span class='glosses' id='i1g'><span class="gloss" id="i1g0"></span><span class="gloss" id="i1g1"></span><span class="gloss" id="i1g2"></span></span><br /><span class='trans' id='i1ft'>They’re hopping while it’s snowing.</span></p></li>
+<li><p class='igt' id='i2'><a href="//depts.washington.edu/dxmedia/Gileg/gil-igg_teqa_togg_noghniy_k'idz.mp3" class='audio'>hidden</a><span class='words' id='i2w'><span class="word" id="i2w0">Giɬigg,</span><span class="word" id="i2w1">teqa,</span><span class="word" id="i2w2">togg</span><span class="word" id="i2w3">noghniy</span><span class="word" id="i2w4">k’idz</span></span><span class='glosses' id='i2g'><span class="gloss" id="i2g0"></span><span class="gloss" id="i2g1"></span><span class="gloss" id="i2g2"></span><span class="gloss" id="i2g3"></span><span class="gloss" id="i2g4"></span></span><br /><span class='trans' id='i2ft'>One, two three little rabbits.</span></p></li>
+<li><p class='igt' id='i3'><a href="//depts.washington.edu/dxmedia/Gileg/getiy_long_tr'itl_neg_xuhonh.mp3" class='audio'>hidden</a><span class='words' id='i3w'><span class="word" id="i3w0">Getiy</span><span class="word" id="i3w1">long</span><span class="word" id="i3w2">tr’itl</span><span class="word" id="i3w3">neg</span><span class="word" id="i3w4">xuhonh.</span></span><span class='glosses' id='i3g'><span class="gloss" id="i3g0"></span><span class="gloss" id="i3g1"></span><span class="gloss" id="i3g2"></span><span class="gloss" id="i3g3"></span><span class="gloss" id="i3g4"></span></span><br /><span class='trans' id='i3ft'>They’re eating lots of nice willow.</span></p></li>
+</ol></div><div id='notes'><h2>Notes</h2><ol></ol>
+</div>
+</div>
+</body>
+</html>
+

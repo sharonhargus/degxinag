@@ -1,0 +1,9 @@
+# 2018-09-13 - AuthType UWNetId
+AuthType Shibboleth
+<IfVersion < 2.4>
+    ShibCompatWith24 on
+</IfVersion>
+ShibRequestSetting requireSession 1
+ShibRequestSetting redirectToSSL 443
+# 2018-09-13 - require user sharon jcrowgey huangjh degxinag 
+require shib-user sharon jcrowgey huangjh degxinag

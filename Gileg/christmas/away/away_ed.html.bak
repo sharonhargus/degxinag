@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Away in a manger</title>
+	<link rel="stylesheet" href="//depts.washington.edu/degxinag/css/dx.css" />
+	<link rel="shortcut icon" href="//depts.washington.edu/degxinag/imgs/raven-icon.png" />
+	<script src="//depts.washington.edu/degxinag/js/dx.js"></script>
+	<script src="//depts.washington.edu/degxinag/js/popcorn/popcorn-complete.js"></script>
+</head>
+<body>
+<div id="main-container">
+<h1>Away in a manger</h1>
+<h2>Edna Deacon</h2>
+<div id="controls-holder">
+<div id="audio-holder"></div>
+</div>
+<div id="window"></div>
+<div id="text">
+<ol>
+
+<li><p class='igt' id='i0'><a href="//depts.washington.edu/dxmedia/Gileg/Away_in_a_manger/engan_nedhodi_tr'ixineganh_xathdlanh_ED.wav" class='audio'>hidden</a><span class='words' id='i0w'><span class='word' id='i0w0'>Engan</span><span class='word' id='i0w1'>nedhodi</span><span class='word' id='i0w2'>tr’ixineganh</span><span class='word' id='i0w3'>xathdlanh.</span></span><span class='trans' id='i0ft'>Far away overseas a baby was born.</span></p></li>
+
+<li><p class='igt' id='i1'><a href="//depts.washington.edu/dxmedia/Gileg/Away_in_a_manger/dinaxito'_viya'_xal-ne_ED.wav" class='audio'>hidden</a><span class='words' id='i1w'><span class='word' id='i1w0'>Dinaxito’</span><span class='word' id='i1w1'>Viya’</span><span class='word' id='i1w2'>xaɬne.</span></span><span class='trans' id='i1ft'>They say [it was] Our Father’s Son.</span></p></li>
+
+<li><p class='igt' id='i2'><a href="//depts.washington.edu/dxmedia/Gileg/Away_in_a_manger/nduxsin_tr'i'ne_tthen'_chux_dol-t'ol-_ED.wav" class='audio'>hidden</a><span class='words' id='i2w'><span class='word' id='i2w0'>Nduxsin,</span><span class='word' id='i2w1'>tr’i’ne,</span><span class='word' id='i2w2'>tthen’</span><span class='word' id='i2w3'>chux</span><span class='word' id='i2w4'>doɬt’oɬ.</span></span><span class='trans' id='i2ft'>Up high, a big star was shining, it is said.</span></p></li>
+
+<li><p class='igt' id='i3'><a href="//depts.washington.edu/dxmedia/Gileg/Away_in_a_manger/tr'ixineganh_k'idz_gidingidz_q'idz_tthitl-'u'onh_ED.wav" class='audio'>hidden</a><span class='words' id='i3w'><span class='word' id='i3w0'>Tr’ixineganh</span><span class='word' id='i3w1'>k’idz</span><span class='word' id='i3w2'>gidingidz</span><span class='word' id='i3w3'>q’idz</span><span class='word' id='i3w4'>tthitl’u’onh.</span></span><span class='trans' id='i3ft'>The little baby laid his head on the straw.<a href="#n1" class="notelink">1</a></span></p></li>
+
+<li><p class='igt' id='i4'><a href="//depts.washington.edu/dxmedia/Gileg/Away_in_a_manger/ggaggi_chux_tr'i'ne_tr'anxiynil-dhit_ED.wav" class='audio'>hidden</a><span class='words' id='i4w'><span class='word' id='i4w0'>Ggagg</span><span class='word' id='i4w1'>chux,</span><span class='word' id='i4w2'>tr’i’ne,</span><span class='word' id='i4w3'>tr’anxiynidhit.</span></span><span class='trans' id='i4ft'>Big animals woke him up, it is said.</span></p></li>
+
+<li><p class='igt' id='i5'><a href="//depts.washington.edu/dxmedia/Gileg/Away_in_a_manger/tr'ixineganh_k'idz_ithtrigh_ts'in'_ED.wav" class='audio'>hidden</a><span class='words' id='i5w'><span class='word' id='i5w0'>Tr’ixineganh</span><span class='word' id='i5w1'>k’idz</span><span class='word' id='i5w2'>ithtrigh</span><span class='word' id='i5w3'>ts’in’.</span></span><span class='trans' id='i5ft'>The little baby doesn’t cry.</span></p></li>
+
+<li><p class='igt' id='i6'><a href="//depts.washington.edu/dxmedia/Gileg/Away_in_a_manger/dinaxito'_viya'_ngiq'aditr'et'a_ED.wav" class='audio'>hidden</a><span class='words' id='i6w'><span class='word' id='i6w0'>Dinaxito’</span><span class='word' id='i6w1'>Viya’,</span><span class='word' id='i6w2'>ngiq’aditr’et’a.</span></span><span class='trans' id='i6ft'>Our Father’s Son, we love you.</span></p></li>
+
+<li><p class='igt' id='i7'><a href="//depts.washington.edu/dxmedia/Gileg/Away_in_a_manger/xoghli'el-_ts'in'_dinagho_dhedo_ED.wav" class='audio'>hidden</a><span class='words' id='i7w'><span class='word' id='i7w0'>Xoghli’eɬ</span><span class='word' id='i7w1'>ts’in’</span><span class='word' id='i7w2'>dinagho</span><span class='word' id='i7w3'>dhedo.</span></span><span class='trans' id='i7ft'>Stay with us until it’s light.</span></p></li>
+
+</ol></div><div id='notes'><h2>Notes</h2><ol>
+<li><span class="footnote" id="n1"><strong>gidingidz</strong> is usually translated as ‘grass’ but can also mean ‘straw’.</span></li>
+</ol></div></div></body></html>
