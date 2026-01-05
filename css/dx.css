@@ -192,7 +192,7 @@ h3 {
 			}
 
 			.headerbackground {
-				background-image: url("http://depts.washington.edu/degxinag/imgs/header_lg.jpg");
+				background-image: url("../imgs/header_lg.jpg");
 				height: 200px;
 				display: flex;
 				display: -webkit-flex;
@@ -230,7 +230,7 @@ h3 {
 			}
 
 			.headerbackground {
-				background-image: url("http://depts.washington.edu/degxinag/imgs/header_lg.jpg");
+				background-image: url("../imgs/header_lg.jpg");
 				height: 200px;
 				display: flex;
 				display: -webkit-flex;
@@ -263,7 +263,7 @@ h3 {
 @media (min-width : 1800px) and (max-width : 2799px) {
 	
 			.headerbackground {
-				background-image: url("http://depts.washington.edu/degxinag/imgs/header_lg.jpg");
+				background-image: url("../imgs/header_lg.jpg");
 				height: 200px;
 				display: flex;
 				display: -webkit-flex;

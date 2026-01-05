@@ -28,7 +28,7 @@
             <body>
  	    <div id="container"> 
 		<div id="header"> 
-		<h2><a href="http://depts.washington.edu/degxinag/">Deg Xinag Texts and Recordings</a></h2> 
+		<h2><a href="https://sharonhargus.github.io/degxinag/">Deg Xinag Texts and Recordings</a></h2> 
 	    </div> 
 	    <div id="content"> 
 		<div id="titleBox">
